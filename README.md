@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mohamed Ibrahim(Ib) 
 
-An aspiring data scientist from Lagos, Nigeria
+An aspiring data scientist from Canada
 
 🔭 I’m currently working as a Data Analyst for Bank
 
