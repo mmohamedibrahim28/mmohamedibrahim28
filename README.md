@@ -4,13 +4,11 @@
 
 An aspiring data scientist from Canada
 
-🔭 I’m currently working as a Data Analyst for Bank
+🔭 I’m currently working as a Data Analyst for a UK basedd Bank, having 7+ years of experience
 
 🔭 I’m love working on Machine Learning and Analytics projects
 
-🌱 I’m currently learning the use of analytics tools to generate insights while solving business problems
-
-👨‍💻 All of my projects are available at [https://github.com/mmohamedibrahim28]
+🌱 All of my projects are available at [https://github.com/mmohamedibrahim28]
 
 💬 Ask me about Python, SQL, Tableau, Machine Learning
 
