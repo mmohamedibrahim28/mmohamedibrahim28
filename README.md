@@ -17,7 +17,7 @@ An aspiring data scientist from Canada
 
 📫 How to reach me 1brahimmohamedsid@gmail.com
 
-📄 Know about my experiences ([LinkedIn](https://www.linkedin.com/in/mmohamedibrahim28/)https://www.linkedin.com/in/mmohamedibrahim28/)
+📄 Know about my experiences - [Linkedin](https://www.linkedin.com/in/mmohamedibrahim28/)
 
 ⚡ Fun fact Scuba Diver, Traveller
 
