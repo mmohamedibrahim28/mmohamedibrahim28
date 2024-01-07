@@ -4,7 +4,7 @@
 
 An aspiring data scientist from Canada
 
-🔭 I’m currently working as a Data Analyst for a UK basedd Bank, having 7+ years of experience
+🔭 I’m currently working as a Data Analyst for a UK based Bank, having 7+ years of experience
 
 🔭 I’m love working on Machine Learning and Analytics projects
 
