@@ -2,20 +2,15 @@
 
 # Hi 👋, I'm Mohamed Ibrahim(Ib) 
 
-An aspiring data scientist from Canada
+👋 A data-driven problem solver with 10 years of experience in program management, supply chain, and analytics.
 
-🔭 I’m currently working as a Data Analyst for a UK based Bank, having 7+ years of experience
+🛠️ I love turning complex data into clear insights using Python, SQL, Power BI, and AI magic.
 
-🔭 I’m love working on Machine Learning and Analytics projects
+🚀 Passionate about building smart pipelines, dashboards, and exploring Gen AI to make businesses faster and smarter.
 
-🌱 All of my projects are available at [https://github.com/mmohamedibrahim28]
-- [KMeans Clustering](https://github.com/mmohamedibrahim28/KMeans/)
-- [California Housing Price](https://github.com/mmohamedibrahim28/California_Housing_Price)
-- [Leads Scoring_ML_Project ](https://github.com/mmohamedibrahim28/Lead-Scoring-Case-Study/)
+🌍 Collaborating globally and sharing cool projects here — let’s connect and create something awesome together!
 
-💬 Ask me about Python, SQL, Tableau, Machine Learning
-
-📫 How to reach me 1brahimmohamedsid@gmail.com
+📫 How to reach me Ibrahim.msiddiq@gmail.com
 
 📄 Know about my experiences - [Linkedin](https://www.linkedin.com/in/mmohamedibrahim28/)
 
